@@ -47,4 +47,6 @@ filetype plugin indent on    " required
 
 
 " Setting
+set nu
+
 colorscheme jellybeans
