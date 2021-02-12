@@ -13,6 +13,9 @@ Plugin 'VundleVim/Vundle.vim'
 " https://github.com/nanotech/jellybeans.vim.git
 Plugin 'nanotech/jellybeans.vim'
 
+" https://github.com/nathanaelkane/vim-indent-guides.git
+Plugin 'nathanaelkane/vim-indent-guides'
+
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
 " plugin on GitHub repo
@@ -50,3 +53,5 @@ filetype plugin indent on    " required
 set nu
 
 colorscheme jellybeans
+
+
